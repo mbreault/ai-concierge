@@ -1,0 +1,3 @@
+https://www.fiverr.com/eurokiwiboy/consult-chatgpt-claude-midjourney-leonardo-ai-tools-prompts?context_referrer=subcategory_listing&source=gig_nested_sub_category_link&ref_ctx_id=41bd9ac02793474d92ab13c0d66476e9&pckg_id=1&pos=6&context_type=auto&funnel=41bd9ac02793474d92ab13c0d66476e9&imp_id=7aa35600-28fb-46dd-8ef7-2f713b4bbc7b
+
+https://www.fiverr.com/masdouk_zoho/set-up-customize-and-automate-your-salesforce?context_referrer=tailored_homepage_perseus&source=recently_viewed_gigs&ref_ctx_id=8350bf9c75f642f1adb77d4204dee78a&context=recommendation&pckg_id=1&pos=3&context_alg=gig_views_graph_v2&imp_id=6fb6e368-c256-479b-8168-f35285358c86
