@@ -1,0 +1,80 @@
+{
+  "archived_on": "2026-09-14",
+  "conversation_url": "https://chatgpt.com/c/6aa7fce5-659c-83ea-9499-3fff6722ae42",
+  "baseline_commit": "da7df57b6392afb8b3a183b6f9e9288d6f1b0623",
+  "files": [
+    {
+      "origin": "conversation attachment",
+      "original_filename": "Claude offerings-v2.md",
+      "path": "offerings/versions/claude-offerings-v2.md",
+      "bytes": 13087,
+      "sha256": "df5d08691f0a8c8777f7ed0d0ad8502edccbc60d2f0508cc45f2cf604bc7b656"
+    },
+    {
+      "origin": "conversation attachment",
+      "original_filename": "ai-concierge-market-research.md",
+      "path": "research/sources/claude-market-research.md",
+      "bytes": 49095,
+      "sha256": "1c9d846e1498e9ff12d124ad5d7a983d1923cecd73ce761365896db371547153"
+    },
+    {
+      "origin": "conversation attachment",
+      "original_filename": "Pasted markdown(20260914-141601).md",
+      "path": "research/sources/gemini-analysis.md",
+      "bytes": 44691,
+      "sha256": "decf00c60b87088aeae938a4b58ed1eb70e45d2e3efdbbea2e2361f795575d67"
+    },
+    {
+      "origin": "conversation attachment",
+      "original_filename": "offerings.md",
+      "path": "offerings/versions/original-v1.md",
+      "bytes": 1619,
+      "sha256": "acbd172d267bd09cf44cfa7005ec9c0653f42b29c9bfa21c103605ca3535ae65"
+    },
+    {
+      "origin": "repository baseline",
+      "path": "README.md",
+      "commit": "da7df57b6392afb8b3a183b6f9e9288d6f1b0623",
+      "git_blob_sha": "279d1454da0b0044d6d7d780741f9fdd1beb49e2",
+      "bytes": 59,
+      "sha256": "0e7aded224d32d6c65aec3caaf7371a1b7a4250cb145b4464837c11db7b3771f",
+      "preservation": "original text retained as README prefix"
+    },
+    {
+      "origin": "repository baseline",
+      "path": "corti-moore-orlando.md",
+      "commit": "da7df57b6392afb8b3a183b6f9e9288d6f1b0623",
+      "git_blob_sha": "462f63b09d9944be64dd15b78c1e4ad3c701aaa8",
+      "bytes": 452,
+      "sha256": "25c7c0886120ef8c70ef55b879a649ea3122b396925c73798289d94b40b37339",
+      "preservation": "unchanged in place"
+    },
+    {
+      "origin": "repository baseline",
+      "path": "fiverr-refs.md",
+      "commit": "da7df57b6392afb8b3a183b6f9e9288d6f1b0623",
+      "git_blob_sha": "49dc6e128aa6b54a9e475c2f7f31f6b5fa692134",
+      "bytes": 641,
+      "sha256": "6444a029ef7064403b9c389ce5d90334bb41f1ca421168252358e4164a18cc49",
+      "preservation": "unchanged in place"
+    },
+    {
+      "origin": "repository baseline",
+      "path": "in-person-training.md",
+      "commit": "da7df57b6392afb8b3a183b6f9e9288d6f1b0623",
+      "git_blob_sha": "c5e336a28bd043afcced15c4e8d214647ece1926",
+      "bytes": 3502,
+      "sha256": "f7b0f0f1a820e5719f7511c6c0a09c61efacc62229c1dd48dc887bfdf22d22f1",
+      "preservation": "unchanged in place"
+    },
+    {
+      "origin": "repository baseline",
+      "path": "offerings.md",
+      "commit": "da7df57b6392afb8b3a183b6f9e9288d6f1b0623",
+      "git_blob_sha": "5299432e1d8313de3e545d5ae04e234e9b487c26",
+      "bytes": 1619,
+      "sha256": "acbd172d267bd09cf44cfa7005ec9c0653f42b29c9bfa21c103605ca3535ae65",
+      "preservation": "unchanged in place"
+    }
+  ]
+}
